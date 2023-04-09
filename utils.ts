@@ -1,4 +1,4 @@
-export const prompt = `Write me an essay of 300 words about giving to others is the key to a happy life.`;
+export const prompt = `Write me an essay of 200 words about giving to others is the key to a happy life.`;
 
 export const davinciModelConfig = {
   model: "text-davinci-003",
