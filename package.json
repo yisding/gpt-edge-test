@@ -14,7 +14,7 @@
     "@types/react-dom": "18.0.11",
     "@vespaiach/axios-fetch-adapter": "^0.3.1",
     "eslint": "8.38.0",
-    "eslint-config-next": "13.2.4",
+    "eslint-config-next": "13.3.0",
     "next": "13.3.0",
     "openai": "^3.2.1",
     "react": "18.2.0",
