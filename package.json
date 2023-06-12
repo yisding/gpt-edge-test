@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/node": "18.15.11",
-    "@types/react": "18.0.35",
+    "@types/react": "18.2.11",
     "@types/react-dom": "18.0.11",
     "@vespaiach/axios-fetch-adapter": "^0.3.1",
     "eslint": "8.38.0",
